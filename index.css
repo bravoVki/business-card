@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    font-family: "Sofia", sans-serif;
+    font-size: large;
+}
+.avatar{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(219, 233, 233);
+    margin-top: 35px;
+    border-radius: 5px;
+    border-bottom-left-radius: 30px;
+}
+.card{
+    width: 600px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    text-align: center;
+    padding:20px;
+    justify-content: space-around;
+    text-decoration: rgb(185, 211, 236);
+    background-color:rgb(174, 238, 174);
+    border-bottom: 15px solid rgb(124, 155, 13);
+    border-radius: 5px;
+    border-bottom-left-radius: 30px;
+}
+.div2{
+    margin-top: 2px;
+}
